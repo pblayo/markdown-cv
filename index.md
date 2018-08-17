@@ -1,91 +1,130 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Christophe Robillard
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Christophe Robillard
+Coach agile
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="christophe@robiweb.net">christophe@robiweb.net</a>
+| <a href="https://christophe.robiweb.net">https://christophe.robiweb.net</a>
 </div>
 
 
-## Currently
+## Coach
 
-Standing on the shoulders of giants
+`Août 2016 - Aujourd'hui`
+**Coach personnel artistique** d'une dirigeante associative (plus de 500 000 adhérents revendiqués)
 
-### Specialized in
+- recrutement de l'équipe (producteur, metteur en scène, attaché de presse)
+- accompagnement personnel
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Résultat  :
 
+- tournée nationale en 2017 dans des théâtres de plus de 250 personnes
+- écriture d'un nouveau spectacle
+- nouvelle tournée prévue à partir d'octobre 2019
+- couverture mediatique (chaines d'info continue, radios nationales, presse nationale et régionale)
 
-### Research interests
+`Septembre 2017 - Février 2018`
+**Coach Lean Startup** pour la Ville de Paris
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- accompagnement de l'intrapreneur vers une culture agile
+- aide à la mise en place d'une stratégie pour l'acquisition de partenaires et d'utilisateurs
+- adoption enthousiaste de la démarche Lean Startup par l'intrapreneur
 
+`Décembre 2016, Mai 2017`
+**Co-Product Owner** pour beta.gouv.fr, Services du Premier Ministre
 
-## Education
+- Accompagnement de l'intrapreneuse
+- Facilitation des ateliers de l'équipe produit
+- Aide à la rédaction des user stories et à l'ordonnancement du Product Backlog
 
-`1654-1660`
-__The King's School, Grantham.__
+## Agiliste
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Février 2018 - Aujourd'hui`
 
-- Sizar
+**Membre actif**, Association Agile France
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Février 2018 - Août 2018`
+**Directeur technique** d'une équipe agile, Miniplexe
 
-- Fellow
+- Contribution à la stratégie d'entreprise
+- Elaboration de la roadmap
+- Management de l'équipe technique
+- Définition de la vision produit
+- Création et priorisation du Product Backlog
 
+`Janvier 2013 - Aujourd'hui`
+**Fondateur** du logiciel Merci Edgar
 
+`Novembre 2017 - Aujourd'hui`
+**Organisateur** du Meetup Developpeurs communicants
 
-## Awards
+`Janvier 2018 - Aujourd'hui`
+**Organisateur** du Meetup Social Tech
 
-`2012`
-President, *Royal Society*, London, UK
+`Septembre 2017 - Février 2018`
+**Lead Dev** Startup de Ville, Ville de Paris
 
-Associate, *French Academy of Science*, Paris, France
+- Conception, développement, déploiement d'une application web
+- Langage : Ruby on Rails
+- Test Driven Developpement
+- Déploiement continu
 
+`Mai 2017 - Mai 2018`
+**Lead Dev** pour beta.gouv.fr, Services du Premier Ministre
 
+- Conception, développement, déploiement d'une application web
+- Langage : Ruby on Rails
+- Test Driven Developpement
+- Déploiement continu
 
-## Publications
+## Artiste
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Septembre 2002 - Aujourd'hui`
+**Chanteur, Compositeur, Pianiste**, Monsieur Robi
 
-### Journals
+- Nombreux concerts parisiens, notamment au Studio de l'Ermitage et au Sentier des Halles
+- Passage télé sur le canapé rouge de Michel Drucker dans l'émission Vivement Dimanche (2010)
+- Passage télé dans l'émission Paris Dernière (2010)
+- Clip "Pommes de Terre" (2010)
+- Album "Pommes de terre" (2010)
+- Interventions en milieu scolaire depuis 2011
+- Nouveau spectacle : Monsieur Robi prépare son Olympia dans votre salon (https://monsieurrobi.com)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`Septembre 2011 - Aujourd'hui`
+**Intervenant musical**, Ecoles primaires de Meaux
 
-`1669`
-Lectiones opticæ.
+- ateliers d'écritures de paroles pour élèves de CP et CE1
+- initiation au chant
+- enregistrement de chansons originales, avec paroles écrites par les élèves
 
-etc. etc. etc.
+`Janvier 2008 - Septembre 2013`
+**Impro-musicien**, Paris Impro
 
-### Patents
+- Improvisation de musiques au piano à partir des improvisations des comédiens
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Novembre 2002 - Janvier 2008`
+**Impro-musicien**, Improvisafond
 
+- Improvisation musicale sous la direction artistique de Michel Lopez
 
-## Occupation
+## Formation
 
-`1600`
-__Royal Mint__, London
+`2018`
+Membre du groupe d'étude francophone sur l'approche thérapeutique de Virginia Satir
 
-- Warden
-- Minted coins
+`2018`
+Membre du cercle de coaching France-Québec
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Juin 2017`
+Certification Professionnal Scrum Product Owner, Scrum.org
 
+`1995 - 2000`
+DESS Communication, Réseau et Image
+Université de Marne-la-Vallée
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Maîtrise d'informatique
+- Licence d'informatique
+- DEUG MIAS (Mathématiques et Informatique appliqués aux sciences)
