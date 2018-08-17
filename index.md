@@ -59,7 +59,7 @@ Résultat  :
 **Fondateur** du logiciel Merci Edgar
 
 `Novembre 2017 - Aujourd'hui`
-**Organisateur** du Meetup Developpeurs communicants
+**Organisateur** du Meetup Développeurs communicants
 
 `Janvier 2018 - Aujourd'hui`
 **Organisateur** du Meetup Social Tech
@@ -96,7 +96,7 @@ Résultat  :
 `Septembre 2011 - Aujourd'hui`
 **Intervenant musical**, Ecoles primaires de Meaux
 
-- ateliers d'écritures de paroles pour élèves de CP et CE1
+- ateliers d'écriture de paroles pour élèves de CP et CE1
 - initiation au chant
 - enregistrement de chansons originales, avec paroles écrites par les élèves
 
@@ -119,7 +119,7 @@ Membre du groupe d'étude francophone sur l'approche thérapeutique de Virginia 
 Membre du cercle de coaching France-Québec
 
 `Juin 2017`
-Certification Professionnal Scrum Product Owner, Scrum.org
+Certification Professional Scrum Product Owner, Scrum.org
 
 `1995 - 2000`
 DESS Communication, Réseau et Image
@@ -127,4 +127,4 @@ Université de Marne-la-Vallée
 
 - Maîtrise d'informatique
 - Licence d'informatique
-- DEUG MIAS (Mathématiques et Informatique appliqués aux sciences)
+- DEUG MIAS (Mathématiques et Informatique appliquées aux sciences)
