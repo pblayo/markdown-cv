@@ -91,8 +91,7 @@ Résultat  :
 - Nombreux concerts parisiens, notamment au Studio de l'Ermitage et au Sentier des Halles
 - Passage télé sur le canapé rouge de Michel Drucker dans l'émission Vivement Dimanche (2010)
 - Passage télé dans l'émission Paris Dernière (2010)
-- Clip "Pommes de Terre" (2010)
-- Album "Pommes de terre" (2010)
+- Album et clip "Pommes de Terre" (2010)
 - Nouveau spectacle : Monsieur Robi prépare son Olympia dans votre salon (https://monsieurrobi.com)
 - Mis en scène par Alain Degois dit Papy (a révélé notamment Jamel Debbouze)
 
