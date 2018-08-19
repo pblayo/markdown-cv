@@ -111,7 +111,7 @@ Résultat  :
 ## Formation
 
 `2018`
-Membre du groupe d'étude francophone sur l'approche thérapeutique de Virginia Satir
+Membre du groupe d'étude francophone sur l'approche de thérapie systémique de Virginia Satir
 
 `2018`
 Membre du cercle de coaching France-Québec
