@@ -43,8 +43,9 @@ Résultat  :
 ## Agiliste
 
 `Février 2018 - Aujourd'hui`
-
 **Membre actif**, Association Agile France
+
+- Préparation et organisation d'un forum ouvert de 4 jours au Château de Monteton prévu en avril 2019
 
 `Février 2018 - Août 2018`
 **Directeur technique** d'une équipe agile, Miniplexe
