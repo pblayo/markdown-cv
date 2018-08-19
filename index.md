@@ -17,9 +17,9 @@ Coach agile
 ## Coach
 
 `Août 2016 - Aujourd'hui`
-**Coach personnel artistique** d'une dirigeante associative (plus de 500 000 adhérents revendiqués)
+**Coach personnel** d'une dirigeante associative (plus de 500 000 adhérents revendiqués)
 
-- recrutement de l'équipe (producteur, metteur en scène, attaché de presse)
+- recrutement de l'équipe artistique (producteur, metteur en scène, attaché de presse)
 - accompagnement personnel
 
 Résultat  :
@@ -103,10 +103,15 @@ Résultat  :
 - initiation au chant
 - enregistrement de chansons originales, avec paroles écrites par les élèves
 
-`Novembre 2002 - Septembre 2013`
-**Impro-musicien**, Paris Impro et Improvisafond
+`Janvier 2008 - Septembre 2013`
+**Impro-musicien**, Paris Impro
 
 - Improvisation de musiques au piano à partir des improvisations des comédiens
+
+`Novembre 2002 - Janvier 2008`
+**Impro-musicien**, Improvisafond
+
+- Improvisation musicale sous la direction artistique de Michel Lopez
 
 ## Formation
 
