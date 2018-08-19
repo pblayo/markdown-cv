@@ -91,12 +91,11 @@ Résultat  :
 - Passage télé dans l'émission Paris Dernière (2010)
 - Clip "Pommes de Terre" (2010)
 - Album "Pommes de terre" (2010)
-- Interventions en milieu scolaire depuis 2011
 - Nouveau spectacle : Monsieur Robi prépare son Olympia dans votre salon (https://monsieurrobi.com)
 - Mis en scène par Alain Degois dit Papy (a révélé notamment Jamel Debbouze)
 
 `Septembre 2011 - Aujourd'hui`
-**Intervenant musical**, Ecoles primaires de Meaux
+**Intervenant musical en milieu scolaire**, Ecoles primaires de Meaux
 
 - ateliers d'écriture de paroles pour élèves de CP et CE1
 - initiation au chant
