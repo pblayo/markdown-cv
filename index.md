@@ -103,15 +103,10 @@ Résultat  :
 - initiation au chant
 - enregistrement de chansons originales, avec paroles écrites par les élèves
 
-`Janvier 2008 - Septembre 2013`
-**Impro-musicien**, Paris Impro
+`Novembre 2002 - Septembre 2013`
+**Impro-musicien**, Paris Impro et Improvisafond
 
 - Improvisation de musiques au piano à partir des improvisations des comédiens
-
-`Novembre 2002 - Janvier 2008`
-**Impro-musicien**, Improvisafond
-
-- Improvisation musicale sous la direction artistique de Michel Lopez
 
 ## Formation
 
