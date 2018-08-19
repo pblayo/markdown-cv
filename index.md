@@ -17,9 +17,9 @@ Coach agile
 ## Coach
 
 `Août 2016 - Aujourd'hui`
-**Coach personnel artistique** d'une dirigeante associative (plus de 500 000 adhérents revendiqués)
+**Coach personnel** d'une dirigeante associative (plus de 500 000 adhérents revendiqués)
 
-- recrutement de l'équipe (producteur, metteur en scène, attaché de presse)
+- recrutement de l'équipe artistique (producteur, metteur en scène, attaché de presse)
 - accompagnement personnel
 
 Résultat  :
