@@ -5,10 +5,13 @@ title: Christophe Robillard
 # Christophe Robillard
 Coach agile
 
+<a href="mailto:christophe@robiweb.net">christophe@robiweb.net</a> - +33 6 61 74 69 69
+
 <div id="webaddress">
-<a href="christophe@robiweb.net">christophe@robiweb.net</a>
-| <a href="https://christophe.robiweb.net">https://christophe.robiweb.net</a>
+  <a href="https://christophe.robiweb.net"><i class="fas fa-home"></i> christophe.robiweb.net</a> -
+  <a href="https://github.com/krichtof"><i class="fab fa-github"></i> krichtof</a>
 </div>
+
 
 
 ## Coach
