@@ -65,8 +65,7 @@ Résultat  :
 `Novembre 2017 - Aujourd'hui`
 **Organisateur** du Meetup Développeurs communicants
 
-`Janvier 2018 - Aujourd'hui`
-**Organisateur** du Meetup Social Tech
+- Apprendre aux développeurs des outils pour mieux communiquer avec leurs clients (EventStorming, Impact Mapping, ...)
 
 `Septembre 2017 - Février 2018`
 **Lead Dev** Startup de Ville, Ville de Paris
