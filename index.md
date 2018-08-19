@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV Christophe Robillard
+title: Christophe Robillard
 ---
 # Christophe Robillard
 Coach agile
@@ -92,6 +92,7 @@ Résultat  :
 - Album "Pommes de terre" (2010)
 - Interventions en milieu scolaire depuis 2011
 - Nouveau spectacle : Monsieur Robi prépare son Olympia dans votre salon (https://monsieurrobi.com)
+- Mis en scène par Alain Degois dit Papy (a révélé notamment Jamel Debbouze)
 
 `Septembre 2011 - Aujourd'hui`
 **Intervenant musical**, Ecoles primaires de Meaux
